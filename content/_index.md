@@ -5,24 +5,20 @@
 title = "Hugo ʕ•ᴥ•ʔ Bear"
 +++
 
-# A match made in heaven
+# Hi! I'm Yeti! 🌟
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+### ☕ Fueled by filter coffee, Excel, football, and perpetual annoyance at the universe. ⚽
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+Living in **Abu Dhabi** with my **handsome and coolest husband**. 💕
 
-[Go to the original bear blog](https://bearblog.dev/).
+I write about **life**, **football**, and the random thoughts swirling in my perpetually annoyed brain. 🌍💡
 
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+## 🔥 My Most Popular Posts
+- 😤 [The Joys of Living Annoyed](#)
+- 🎥 [Movies That Stuck With Me](#)
+- ☕ [What Makes a Perfect Cup of Coffee](#)
 
 ---
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+### 📬 Subscribe!
+**[RSS](#)** | **[Email](#)** | **[Say Hi!](mailto:hello@yeti.com)**
