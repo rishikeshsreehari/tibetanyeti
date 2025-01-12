@@ -27,3 +27,16 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'site-settings'
+    label: 'Site Settings'
+    file: 'hugo.toml'           # Path to the Hugo configuration file
+    fields:
+      - { label: 'Base URL', name: 'baseURL', widget: 'string' }
+      - { label: 'Theme', name: 'theme', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Language Code', name: 'languageCode', widget: 'string' }
+      - { label: 'Description', name: 'params.description', widget: 'string' }
+      - { label: 'Favicon', name: 'params.favicon', widget: 'string' }
+      - { label: 'Images', name: 'params.images', widget: 'list', field: { label: 'Image', name: 'image', widget: 'string' } }
