@@ -1,8 +1,10 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+
 media_folder: static/img
 public_folder: /img
+
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -15,4 +17,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content'
+    create: true                # Allows creating new pages
+    slug: '{{slug}}'            # Use the filename as the slug
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
