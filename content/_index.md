@@ -19,4 +19,4 @@ I write about **life**, **football**, and the random thoughts swirling in my per
 
 ### 📬 Subscribe!
 
-**[RSS](#)** | **[Email](#)** | **[Say Hi!](mailto:hello@yeti.com)**
+**[RSS](/index.xml)** | **[Email](mailto:hello@tibetanyeti.com)** 
