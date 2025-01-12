@@ -19,4 +19,4 @@ I write about **life**, **football**, and the random thoughts swirling in my per
 
 ### 📬 Subscribe!
 
-**[RSS](/index.xml)** | **[Email](mailto:hello@tibetanyeti.com)** 
+**[RSS](/index.xml)** | **[Email](mailto:hello@tibetanyeti.com)** | **[Source](https://github.com/rishikeshsreehari/tibetanyeti)**
