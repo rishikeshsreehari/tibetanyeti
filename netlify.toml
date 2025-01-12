@@ -1,0 +1,15 @@
+[build]
+  command = "hugo"              # Command to build your site
+  publish = "public"            # Directory to publish (default for Hugo)
+
+[build.environment]
+  HUGO_VERSION = "0.125.7"      # Match your local Hugo version
+  HUGO_ENV = "production"       # Set the Hugo environment to production
+
+[context.production]
+  command = "hugo --gc --minify" # Optimize build for production
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
