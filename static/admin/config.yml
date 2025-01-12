@@ -10,27 +10,27 @@ collections:
     label: 'Blog'
     folder: 'content/blog'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}' # Use only the title for the filename
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', default: 'now' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'pages'
     label: 'Pages'
     folder: 'content'
-    create: true                # Allows creating new pages
-    slug: '{{slug}}'            # Use the filename as the slug
+    create: true # Allows creating new pages
+    slug: '{{slug}}' # Use only the title for the filename
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'site-settings'
     label: 'Site Settings'
-    file: 'hugo.toml'           # Path to the Hugo configuration file
+    file: 'hugo.toml' # Path to the Hugo configuration file
     fields:
       - { label: 'Base URL', name: 'baseURL', widget: 'string' }
       - { label: 'Theme', name: 'theme', widget: 'string' }
