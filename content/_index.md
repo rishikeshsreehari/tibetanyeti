@@ -3,17 +3,20 @@ title: Aditi Ramesh
 ---
 # Hi! I'm Yeti! 🌟
 
-### ☕ Fueled by filter coffee, Excel, football, and perpetual annoyance at the universe. ⚽
+### ☕ Fueled by coffee, Excel, football, trash television and perpetual annoyance at the universe. ⚽
 
-Living in **Abu Dhabi** with my **[handsome and coolest husband](https://rishikeshs.com)**. 💕
+Living in **Abu Dhabi** with 💕
 
-I write about **life**, **football**, and the random thoughts swirling in my perpetually annoyed brain. 🌍💡
+I write about ... well I am figuring out life, so mostly about my everyday life and majority of my goals for 2025.  And since I am in my corporate girlie era, by the end of February 2025, I will share a monthly score card for my goals. 
 
-## 🔥 My Most Popular Posts
+**2025 Goals** 
 
-* 😤 [The Joys of Living Annoyed](#)
-* 🎥 [Movies That Stuck With Me](#)
-* ☕ [What Makes a Perfect Cup of Coffee](#)
+* Health : Play football at least 52 times this year. 
+* Health : Since copying from husband is not considered copying, let me copy his goal, be the fittest version of myself on my 30th birthday.
+* Health : Walk 1,825,0000 steps this year with my husband. ( that's only 5,000 a day )
+* Personal : Improve my texting game. ( which is almost non-existent ) ; aim is to not piss off my loved ones.
+* Career : Finish CMA Part 2
+* Wealth : Earn AED 2,500 from a side hustle.
 
 - - -
 
