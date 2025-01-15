@@ -16,7 +16,7 @@ I write about ... well I am figuring out life, so mostly about my everyday life 
 * Health : Walk 1,825,0000 steps this year with my husband. ( that's only 5,000 a day )
 * Personal : Improve my texting game. ( which is almost non-existent ) ; aim is to not piss off my loved ones.
 * Career : Finish CMA Part 2
-* Wealth : Earn AED 2,500 from a side hustle.
+* Wealth : Earn USD 500 from a side hustle.
 
 - - -
 
