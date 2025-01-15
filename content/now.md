@@ -13,3 +13,4 @@ title: What am I doing now?
 ### Watching
 
 * Dubai Bling
+* Moment of Silence
