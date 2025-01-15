@@ -1,5 +1,5 @@
 ---
-title: Aditi Ramesh
+title: AR
 ---
 # Hi! I'm Yeti! 🌟
 
