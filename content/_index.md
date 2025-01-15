@@ -3,7 +3,7 @@ title: AR
 ---
 # Hi! I'm Yeti! 🌟
 
-### ☕ Fueled by coffee, Excel, football, trash television and perpetual annoyance at the universe. ⚽
+### ☕ Fueled by coffee, Excel, football, trash television and being perpetually annoyed. ⚽
 
 Living in **Abu Dhabi** with 💕
 
