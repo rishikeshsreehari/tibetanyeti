@@ -1,6 +1,6 @@
 ---
 title: My Cartoon Era
-date: now
+date: 2025-01-16
 description: Just a Monthly Cartoon
 ---
 tadumtumdum ( Upcoming )
