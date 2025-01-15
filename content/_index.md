@@ -7,7 +7,7 @@ title: Aditi Ramesh
 
 Living in **Abu Dhabi** with 💕
 
-I write about ... well I am figuring out life, so mostly about my everyday life and majority of my goals for 2025.  And since I am in my corporate girlie era, by the end of February 2025, I will share a monthly score card for my goals. ( corporate girlie era )
+I write about ... well I am figuring out life, so mostly about my everyday life and some of my publicly post-able goals for 2025.  Since I am in my corporate girlie era, by the end of February 2025, I will share a monthly score card for my goals. ( corporate girlie era )
 
 **2025 Goals** 
 
