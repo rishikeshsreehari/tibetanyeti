@@ -13,7 +13,7 @@ I write about ... well I am figuring out life, so mostly about my everyday life 
 
 * Personal : Play football at least 52 times this year. 
 * Health : Since copying from husband is not considered copying, let me copy his goal, be the fittest version of myself on my 30th birthday.
-* Health : Walk 1,825,0000 steps this year with my husband. ( that's only 5,000 a day )
+* Health : Walk 1,825,000 steps this year with my husband. ( that's only 5,000 a day )
 * Personal : Improve my texting game. ( which is almost non-existent ) ; aim is to not piss off my loved ones.
 * Career : Finish CMA Part 2
 * Wealth : Earn USD 500 from a side hustle.
