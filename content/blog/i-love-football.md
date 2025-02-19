@@ -7,6 +7,8 @@ tags:
   - football
   - life
   - sports
+  - women in football
+  - passion
 ---
 As a child, if you would ask me the one thing I enjoyed the most, it would be playing everyday right after school for 3 hours, uninterrupted carefree fun.  Over the years, as my family moved cities, and eventually I ended up moving to different countries, a part of me always longed for the same. 
 
