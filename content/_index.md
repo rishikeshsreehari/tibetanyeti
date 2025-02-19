@@ -5,7 +5,7 @@ title: AR
 
 ### ☕ Fueled by coffee, Excel, football, trash television and being perpetually annoyed. ⚽
 
-Living in **Abu Dhabi** with 💕
+Living in **Abu Dhabi** with [💕](https://rishikeshs.com)
 
 I write about ... well I am figuring out life, so mostly about my everyday life and some of my publicly post-able goals for 2025.  Since I am in my corporate girlie era, by the end of February 2025, I will share a monthly score card for my goals. ( corporate girlie era )
 
