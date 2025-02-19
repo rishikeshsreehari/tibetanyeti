@@ -14,3 +14,8 @@ title: What am I doing now?
 
 * Dubai Bling
 * Moment of Silence
+
+
+
+#### This is a “now page” inspired by the [/now page](https://nownownow.com/) movement!
+

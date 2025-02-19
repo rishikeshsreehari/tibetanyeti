@@ -20,6 +20,4 @@ I write about ... well I am figuring out life, so mostly about my everyday life 
 
 - - -
 
-### 📬 Subscribe!
-
-**[RSS](/index.xml)** | **[Email](mailto:hello@tibetanyeti.com)** | **[Source](https://github.com/rishikeshsreehari/tibetanyeti)**
+**[RSS](/index.xml)** | **[Send me an Email](mailto:hello@tibetanyeti.com)** | **[Source](https://github.com/rishikeshsreehari/tibetanyeti)**
