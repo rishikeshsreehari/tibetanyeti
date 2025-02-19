@@ -4,8 +4,9 @@ date: 2025-01-15
 description: Sample article showcasing basic Markdown syntax and formatting for
   HTML elements.
 tags:
-  - markdown
-  - syntax
+  - football
+  - life
+  - sports
 ---
 As a child, if you would ask me the one thing I enjoyed the most, it would be playing everyday right after school for 3 hours, uninterrupted carefree fun.  Over the years, as my family moved cities, and eventually I ended up moving to different countries, a part of me always longed for the same. 
 
