@@ -3,7 +3,7 @@ title: Zining Away..
 date: 2025-02-20
 description: Zine"ZEEN" 101
 ---
-On the rare occasion that I voluntarily step out ( on my husband's insistence that I forego being a couch potato for the evening ), we ended up attending a "block party" in Abu Dhabi on valentines day. It was there where I got a chance to Ziiiiiinnneee Away. What is a zine? Yeti, you may ask me. You fold your paper 3 times into half and get 8 parts ( 2^3 = 8 ), you see art and math go hand in hand. Then you make 1 cut ( 1 ONLY ) and then you get a book like structure.  Then we started drawing, you can basically express yourself in any way through a zine, be it political opinion, some strong feelings, experiences which you feel every strongly about, my zine helped me unfold my thoughts like never before. So for the next 2 hours, I drew, scribbled and doodled through the 8 pages, starting from my time in Dubai.
+rOn the rare occasion that I voluntarily step out ( on my husband's insistence that I forego being a couch potato for the evening ), we ended up attending a "block party" in Abu Dhabi on valentines day. It was there where I got a chance to Ziiiiiinnneee Away. What is a zine? Yeti, you may ask me. You fold your paper 3 times into half and get 8 parts ( 2^3 = 8 ), you see art and math go hand in hand. Then you make 1 cut ( 1 ONLY ) and then you get a book like structure.  Then we start drawing, you can basically express yourself in any way through a zine, be it political opinion, some strong feelings, experiences which you feel every strongly about, my zine helped me unfold my thoughts like never before. So for the next 2 hours, I drew, scribbled and doodled through the 8 pages, starting from my time in Dubai.
 
 ![](/img/zine-guide-b-w.png)
 
@@ -23,4 +23,4 @@ And now its on our switch board.
 
 ![](/img/img_1756.jpeg)
 
-(P.S. my
+(P.S. my best friend after hearing me rave about it surprised me with some art materials to zine again <3 )
