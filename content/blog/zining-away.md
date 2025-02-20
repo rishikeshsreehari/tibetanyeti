@@ -7,7 +7,9 @@ rOn the rare occasion that I voluntarily step out ( on my husband's insistence t
 
 ![](/img/zine-guide-b-w.png)
 
-We had all the fun stuff beautiful colour pens, brightly coloured neon sheets, normal sheets, designer tape, stickers and even copying machine where one could Xerox beautiful designs from books for their zine. The next 2 hours were filled with stories of how our facilitator, started with this, she showed us her first ever zine about her walk to the local shop. I am not the one usually romanticising the mundane nature of everyday chores, but sometimes why not? I then got a chance to draw on the zines of some others on the table, it was a truly fun experience to do draw to express.  Somewhere, the child in me experienced uninterrupted joy, so here is the child in me presenting to you zineeee ( or "zeen") :
+We had all the fun stuff beautiful colour pens, brightly coloured neon sheets, normal sheets, designer tape, stickers and even copying machine where one could Xerox beautiful designs from books for their zine. The next 2 hours were filled with stories of how our facilitator, started with this, she showed us her first ever zine about her walk to the local shop. I am not the one usually romanticising the mundane nature of everyday chores, but her zine gave me a totally different perspective about something so common. 
+
+Somewhere, the child in me experienced uninterrupted joy, so here is the child in me presenting to you zineeee ( or "zeen") :
 
 ![](/img/img_1764.jpeg)
 
@@ -23,4 +25,6 @@ And now its on our switch board.
 
 ![](/img/img_1756.jpeg)
 
-(P.S. my best friend after hearing me rave about it surprised me with some art materials to zine again <3 )
+(P.S. my best friend after hearing me rave about it surprised me with some art materials to zine again <3 
+
+P.S.S : Go checkout https://www.instagram.com/7ijrawm/ the session organiser)
