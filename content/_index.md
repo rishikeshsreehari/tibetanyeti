@@ -11,12 +11,14 @@ I write about ... well I am figuring out life, so mostly about my everyday life 
 
 **2025 Goals** 
 
-* Personal : Play football at least 52 times this year. ( As of 20/02/2025 : 6/52 )
-* Health : Since copying from husband is not considered copying, let me copy his goal, be the fittest version of myself on my 30th birthday. ( As of 20/02/2025 :No where towards the goal )
-* Health : Walk 1,825,000 steps this year with my husband. ( that's only 5,000 a day ) ( As of 20/02/2025 : 69,813/ 1,825,000)
-* Personal : Improve my texting game. ( which is almost non-existent ) ; aim is to not piss off my loved ones. ( As of 20/02/2025 : this I cannot answer :) )
-* Career : Finish CMA Part 2  ( As of 20/02/2025 :No where towards the goal )
-* Wealth : Earn USD 500 from a side hustle.
+* Personal : Play football at least 52 times this year. ( 6/52* )
+* Health : Since copying from husband is not considered copying, let me copy his goal, be the fittest version of myself on my 30th birthday. ( As of 20/02/2025 :No where towards the goal* )
+* Health : Walk 1,825,000 steps this year with my husband. ( that's only 5,000 a day ) ( 69,813/ 1,825,000*)
+* Personal : Improve my texting game. ( which is almost non-existent ) ; aim is to not piss off my loved ones. ( This I cannot answer :) *)
+* Career : Finish CMA Part 2  ( No where towards the goal* )
+* Wealth : Earn USD 500 from a side hustle.(0/500*)
+
+`*As of 20/02/2025`
 
 - - -
 
